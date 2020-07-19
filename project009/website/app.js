@@ -1,5 +1,5 @@
 /* Global Variables */
-const API = '&units=imperial&APPID=fcf9611b15a5e47a1f8afd3806a7a2a4';
+const API = 'removed - put your API';
 const baseUrl = 'https://api.openweathermap.org/data/2.5/weather?q=';
 // Create a new date instance dynamically with JS
 let d = new Date();
